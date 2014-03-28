@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://ref.otcnice.com/webservice/" uri="ref.otcnice.com/webservice/index"/>
+    <system systemId="http://www.w3.org/1999/XSL/Format" uri="www.w3.org/1999/xsl/format"/>
+    <system systemId="http://localhost:8080/ProjetMiage/carte" uri="localhost_8080/ProjetMiage/carte"/>
+    <system systemId="http://www.w3.org/2000/svg" uri="www.w3.org/2000/svg"/>
+</catalog>
